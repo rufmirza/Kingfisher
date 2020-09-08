@@ -34,7 +34,7 @@ extension Never {}
 /// then switch over the reason to know error detail.
 public enum KingfisherError: Error {
 
-    // MARK: Error Reason Types
+    // MARK: - Error Types
 
     /// Represents the error reason during networking request phase.
     ///
